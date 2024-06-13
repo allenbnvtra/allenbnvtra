@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="full" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
+<img align="center" alt="coding" width="1100" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 <h1 align="center">Hi 👋, I'm Allen Buenaventura</h1>
 <h3 align="center">A passionate frontend developer from The Philippines</h3>
 
