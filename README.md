@@ -1,6 +1,6 @@
+<img align="right" alt="coding" width="full" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 <h1 align="center">Hi 👋, I'm Allen Buenaventura</h1>
 <h3 align="center">A passionate frontend developer from The Philippines</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 
 - 🌱 I’m currently learning **PHP frameworks, Dart**
 
