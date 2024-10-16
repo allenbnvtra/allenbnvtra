@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Developing Mobile Applications**
 
-- 💬 Ask me about **react, codeigniter, laravel, nextjs**
+- 💬 Ask me about **React, Codeigniter, Laravel, NextJS, ExpressJS**
 
 - 📫 How to reach me **allenbnvtra.11@gmail.com**
 
