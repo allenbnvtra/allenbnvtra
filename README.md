@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Allen Buenaventura</h1>
 <h3 align="center">A passionate full-stack web developer from The Philippines</h3>
 
-- 🌱 I’m currently learning **PHP frameworks, Dart, Typescript**
+- 🌱 I’m currently learning **Developing Mobile Applications**
 
 - 💬 Ask me about **react, codeigniter, laravel, nextjs**
 
